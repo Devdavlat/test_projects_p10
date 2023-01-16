@@ -1,0 +1,28 @@
+{'city': 'Tashkent', 'lat': '41.3000', 'lng': '69.2667'}
+{'city': 'Namangan', 'lat': '40.9953', 'lng': '71.6725'}
+{'city': 'Samarkand', 'lat': '39.6542', 'lng': '66.9597'}
+{'city': 'Andijon', 'lat': '40.7000', 'lng': '72.3500'}
+{'city': 'Qoqon', 'lat': '40.5404', 'lng': '70.9400'}
+{'city': 'Nukus', 'lat': '42.4647', 'lng': '59.6022'}
+{'city': 'Farg‘ona', 'lat': '40.3864', 'lng': '71.7864'}
+{'city': 'Bukhara', 'lat': '39.7747', 'lng': '64.4286'}
+{'city': 'Qarshi', 'lat': '38.8667', 'lng': '65.8000'}
+{'city': 'Denov', 'lat': '38.2772', 'lng': '67.8872'}
+{'city': 'Marg‘ilon', 'lat': '40.4667', 'lng': '71.7167'}
+{'city': 'Iskandar', 'lat': '41.5507', 'lng': '69.6807'}
+{'city': 'Jizzax', 'lat': '40.1167', 'lng': '67.8500'}
+{'city': 'Chirchiq', 'lat': '41.4667', 'lng': '69.5833'}
+{'city': 'Termiz', 'lat': '37.2242', 'lng': '67.2783'}
+{'city': 'Urganch', 'lat': '41.5345', 'lng': '60.6249'}
+{'city': 'Navoiy', 'lat': '40.0833', 'lng': '65.3833'}
+{'city': 'Angren', 'lat': '41.0167', 'lng': '70.1333'}
+{'city': 'Olmaliq', 'lat': '40.8500', 'lng': '69.6000'}
+{'city': 'Kogon Shahri', 'lat': '39.7211', 'lng': '64.5458'}
+{'city': 'Shahrisabz', 'lat': '39.0500', 'lng': '66.8333'}
+{'city': 'Guliston', 'lat': '40.4833', 'lng': '68.7833'}
+{'city': 'Urgut Shahri', 'lat': '39.4007', 'lng': '67.2607'}
+{'city': 'Kattagan', 'lat': '40.2000', 'lng': '64.9167'}
+{'city': 'Bekobod', 'lat': '40.2258', 'lng': '69.2292'}
+{'city': 'Qo‘ng‘irot Shahri', 'lat': '43.0758', 'lng': '58.9067'}
+{'city': 'Xo‘jayli Shahri', 'lat': '42.4047', 'lng': '59.4517'}
+{'city': 'Kattaqo’rg’on Shahri', 'lat': '39.8958', 'lng': '66.2656'}
