@@ -79,7 +79,6 @@ class Prodcuts:
             is_expire = self.is_expire_from_data(given_data_for_sort, expire_data_list)
 
             if is_expire:
-                print(is_expire)
                 try:
                     open("expired_products_by_date.csv", 'w', newline='')
                 except Exception as e:
